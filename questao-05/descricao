@@ -1,0 +1,16 @@
+Questão 5 (Backend/API Externa)
+Copie o script api/calculo para um novo script que responda na rota api/calculoGoogle que faça uma chamada à API Directions do Google para obter as estimativas de duração e distância do trajeto.
+Valide e sanitize os dados de entrada (id da cidade, id da categoria, endereços de origem e destino) para garantir que são seguros e estão no formato esperado.
+Faça uma chamada à API Directions do Google para obter as estimativas de duração e distância do trajeto usando os endereços fornecidos.
+Implemente gerenciamento de timeout para a chamada à API do Google, definindo um tempo máximo de espera pela resposta.
+Caso a API do Google esteja fora do ar ou ocorra um timeout, calcule a distância e duração com valores aleatórios dentro de:
+Gerar um valor aleatório de 10 a 80 para a distância.
+Gerar um valor aleatório de 15 a 75 para a duração.
+Utilize prepared statements para obter os parâmetros necessários para o cálculo da tarifa do banco de dados, assumindo a distância e duração fornecidas pela API ou calculadas em linha reta e a hora atual.
+Efetue o cálculo.
+Registre o cálculo no banco de dados, utilizando prepared statements para evitar SQL Injection.
+Implemente tratamento de erros adequados em caso de falhas, tanto ao chamar a API do Google quanto ao acessar o banco de dados.
+Adicione logs para monitoramento das requisições e respostas da API do Google.
+Implemente um mecanismo de cache para armazenar respostas da API do Google e reduzir chamadas redundantes, você pode usar como cache qualquer banco de dados em memória, como o Redis, Memcached, KeyDb, e outros, ou fazer o cache via arquivo de texto em disco.
+Retorne um JSON com a distância, duração, parâmetros utilizados e valor calculado.
+Altere no formulário do frontend para chamar esse novo endpoint.

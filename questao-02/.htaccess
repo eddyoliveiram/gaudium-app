@@ -1,0 +1,3 @@
+RewriteEngine On
+
+RewriteRule ^api/calculo$ api/index.php [L,QSA]

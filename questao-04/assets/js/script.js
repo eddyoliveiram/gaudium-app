@@ -14,7 +14,7 @@ $(document).ready(function () {
         if (cidadeId) {  // Verifica se o valor não é nulo
             $categoriaSelect.html('<option value="">Carregando...</option>');
 
-            $.getJSON(`../Controllers/CategoriaController.php?action=getCategoriasPorCidade&cidade_id=${cidadeId}`, function (data) {
+            $.getJSON(`./Controllers/CategoriaController.php?action=getCategoriasPorCidade&cidade_id=${cidadeId}`, function (data) {
                 $categoriaSelect.html('<option value="">Selecione uma categoria</option>');
                 if (data.length > 0) {
                     $.each(data, function (index, categoria) {
@@ -37,7 +37,7 @@ $(document).ready(function () {
 
         const formData = $form.serialize();
 
-        $.post('../../questao-02/api/calculo', formData, function (data) {
+        $.post('../questao-02-e-05/api/calculoGoogle', formData, function (data) {
             if (data.error) {
                 $resultadoDiv.text(`Erro ao acessar a API: ${data.error}`);
             } else {
@@ -61,12 +61,12 @@ $(document).ready(function () {
         const horas = String(data.getHours()).padStart(2, '0');
         const minutos = String(data.getMinutes()).padStart(2, '0');
 
-        return `${dia}/${mes}/${ano} ${horas}:${minutos}`;
+        return `${horas}:${minutos}`;
     }
 
 
     function carregarHistorico(page = 1) {
-        $.getJSON('../Controllers/HistoricoController.php?page=' + page, function (data) {
+        $.getJSON('./Controllers/HistoricoController.php?page=' + page, function (data) {
             $historicoDiv.empty();
 
             if (data.historico.length === 0) {

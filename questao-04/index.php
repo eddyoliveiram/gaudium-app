@@ -1,6 +1,6 @@
 <?php
-require_once '../config/Database.php';
-require_once '../Models/Cidade.php';
+require_once './config/Database.php';
+require_once './Models/Cidade.php';
 $database = new Database();
 $pdo = $database->pdo;
 
@@ -15,7 +15,7 @@ $cidades = $cidadeModel->getAllCidades();
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Estimativa de Tarifa</title>
-    <link rel="stylesheet" href="../assets/css/styles.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
     <!-- Importando jQuery via CDN -->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </head>
@@ -59,7 +59,7 @@ $cidades = $cidadeModel->getAllCidades();
     </div>
 </div>
 
-<script src="../assets/js/script.js"></script>
+<script src="assets/js/script.js"></script>
 </body>
 
 </html>

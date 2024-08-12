@@ -1,0 +1,193 @@
+[2024-08-12 22:33:08] [warning] Método HTTP não suportado
+[2024-08-12 22:33:40] [warning] Dados inválidos fornecidos na requisição
+[2024-08-12 22:34:23] [warning] Dados inválidos fornecidos na requisição
+[2024-08-12 22:36:23] [warning] Dados inválidos fornecidos na requisição
+[2024-08-12 22:36:44] [warning] Dados inválidos fornecidos na requisição
+[2024-08-12 22:39:26] [warning] Nenhuma tarifa encontrada para a combinação de cidade e categoria
+[2024-08-12 22:42:22] [info] Requisição processada com sucesso
+[2024-08-12 22:42:34] [info] Requisição processada com sucesso
+[2024-08-12 22:42:46] [info] Requisição processada com sucesso
+[2024-08-12 22:44:01] [info] Requisição processada com sucesso
+[2024-08-12 22:44:04] [info] Requisição processada com sucesso
+[2024-08-12 22:44:08] [info] Requisição processada com sucesso
+[2024-08-12 22:46:16] [info] Requisição processada com sucesso
+[2024-08-12 22:48:44] [warning] Método HTTP não suportado
+[2024-08-12 22:48:46] [warning] Método HTTP não suportado
+[2024-08-12 22:48:47] [warning] Método HTTP não suportado
+[2024-08-12 22:50:04] [warning] Método HTTP não suportado
+[2024-08-12 22:50:38] [info] Requisição processada com sucesso
+[2024-08-12 22:50:55] [info] Requisição processada com sucesso
+[2024-08-12 22:51:04] [info] Requisição processada com sucesso
+[2024-08-12 22:51:05] [info] Requisição processada com sucesso
+[2024-08-12 22:51:09] [warning] Dados inválidos fornecidos na requisição
+[2024-08-12 22:51:11] [warning] Dados inválidos fornecidos na requisição
+[2024-08-12 22:51:14] [info] Requisição processada com sucesso
+[2024-08-12 22:51:19] [warning] Dados inválidos fornecidos na requisição
+[2024-08-12 22:51:23] [info] Requisição processada com sucesso
+[2024-08-12 22:52:19] [warning] Método HTTP não suportado
+[2024-08-12 22:52:27] [info] Requisição processada com sucesso
+[2024-08-12 22:54:33] [info] Requisição processada com sucesso
+[2024-08-12 22:58:33] [info] Requisição processada com sucesso
+[2024-08-12 22:59:22] [info] Requisição processada com sucesso
+[2024-08-12 22:59:31] [warning] Dados inválidos fornecidos na requisição
+[2024-08-12 22:59:32] [warning] Dados inválidos fornecidos na requisição
+[2024-08-12 22:59:32] [warning] Dados inválidos fornecidos na requisição
+[2024-08-12 22:59:37] [info] Requisição processada com sucesso
+[2024-08-12 23:01:02] [info] Requisição processada com sucesso
+[2024-08-12 23:03:41] [info] Requisição processada com sucesso
+[2024-08-12 23:03:43] [info] Requisição processada com sucesso
+[2024-08-12 23:06:25] [info] Requisição processada com sucesso
+[2024-08-12 23:06:26] [info] Requisição processada com sucesso
+[2024-08-12 23:09:30] [info] Requisição processada com sucesso
+[2024-08-12 23:09:31] [info] Requisição processada com sucesso
+[2024-08-12 23:21:13] [info] Requisição processada com sucesso
+[2024-08-12 23:24:51] [info] Requisição processada com sucesso
+[2024-08-12 23:56:59] [warning] Dados inválidos fornecidos na requisição
+[2024-08-12 23:59:35] [info] Requisição processada com sucesso
+[2024-08-13 00:03:36] [info] Requisição processada com sucesso
+[2024-08-13 00:04:01] [info] Requisição processada com sucesso
+[2024-08-13 00:10:21] [info] Requisição processada com sucesso
+[2024-08-13 00:10:43] [info] Requisição processada com sucesso
+[2024-08-13 00:11:32] [info] Requisição processada com sucesso
+[2024-08-13 00:11:48] [info] Requisição processada com sucesso
+[2024-08-13 00:13:09] [info] Requisição processada com sucesso
+[2024-08-13 00:15:44] [info] Requisição processada com sucesso
+[2024-08-13 00:15:48] [info] Requisição processada com sucesso
+[2024-08-13 00:22:38] [info] Requisição processada com sucesso
+[2024-08-13 00:28:43] [info] Requisição processada com sucesso
+[2024-08-13 00:28:44] [info] Requisição processada com sucesso
+[2024-08-13 00:28:44] [info] Requisição processada com sucesso
+[2024-08-13 00:28:45] [info] Requisição processada com sucesso
+[2024-08-13 00:28:46] [info] Requisição processada com sucesso
+[2024-08-13 00:29:47] [info] Requisição processada com sucesso
+[2024-08-13 00:29:50] [info] Requisição processada com sucesso
+[2024-08-13 00:30:43] [info] Requisição processada com sucesso
+[2024-08-13 00:32:13] [info] Requisição processada com sucesso
+[2024-08-13 00:55:53] [info] Requisição à API do Google Directions bem-sucedida
+[2024-08-13 00:55:53] [info] Cálculo e registro da corrida bem-sucedidos
+[2024-08-13 00:56:02] [info] Requisição à API do Google Directions bem-sucedida
+[2024-08-13 00:56:02] [info] Cálculo e registro da corrida bem-sucedidos
+[2024-08-13 00:59:06] [info] Requisição à API do Google Directions bem-sucedida
+[2024-08-13 00:59:06] [info] Cálculo e registro da corrida bem-sucedidos
+[2024-08-13 00:59:08] [info] Requisição à API do Google Directions bem-sucedida
+[2024-08-13 00:59:08] [info] Cálculo e registro da corrida bem-sucedidos
+[2024-08-13 01:02:41] [info] Requisição processada com sucesso
+[2024-08-13 01:02:43] [info] Requisição processada com sucesso
+[2024-08-13 01:02:43] [info] Requisição processada com sucesso
+[2024-08-13 01:04:34] [info] Requisição à API do Google Directions bem-sucedida
+[2024-08-13 01:04:34] [info] Cálculo e registro da corrida bem-sucedidos
+[2024-08-13 01:05:22] [info] Requisição processada com sucesso
+[2024-08-13 01:05:30] [info] Requisição processada com sucesso
+[2024-08-13 01:05:32] [info] Requisição à API do Google Directions bem-sucedida
+[2024-08-13 01:05:32] [info] Cálculo e registro da corrida bem-sucedidos
+[2024-08-13 01:17:31] [info] Requisição à API do Google Directions bem-sucedida
+[2024-08-13 01:17:31] [info] Cálculo e registro da corrida bem-sucedidos
+[2024-08-13 01:18:00] [info] Requisição à API do Google Directions bem-sucedida
+[2024-08-13 01:18:00] [info] Cálculo e registro da corrida bem-sucedidos
+[2024-08-13 01:18:46] [info] Dados recuperados do cache Redis
+[2024-08-13 01:18:56] [info] Dados recuperados do cache Redis
+[2024-08-13 01:18:57] [info] Dados recuperados do cache Redis
+[2024-08-13 01:18:58] [info] Dados recuperados do cache Redis
+[2024-08-13 01:19:53] [info] Dados recuperados do cache Redis
+[2024-08-13 01:19:56] [info] Requisição processada com sucesso
+[2024-08-13 01:19:59] [info] Dados recuperados do cache Redis
+[2024-08-13 01:21:17] [info] Requisição à API do Google Directions bem-sucedida
+[2024-08-13 01:21:17] [error] Erro ao acessar a API do Google: NOT_FOUND
+[2024-08-13 01:21:17] [warning] Usando valores aleatórios para distância e duração devido à falha na API do Google
+[2024-08-13 01:21:17] [info] Cálculo e registro da corrida bem-sucedidos
+[2024-08-13 01:21:17] [info] Dados armazenados no Redis com a chave: route:3:1:1c966bd8b771f7a0ca84e97245da751d
+[2024-08-13 01:21:19] [info] Dados recuperados do cache Redis
+[2024-08-13 01:21:24] [info] Dados recuperados do cache Redis
+[2024-08-13 01:21:25] [info] Dados recuperados do cache Redis
+[2024-08-13 01:22:00] [info] Dados recuperados do cache Redis
+[2024-08-13 01:22:02] [info] Dados recuperados do cache Redis
+[2024-08-13 01:22:03] [info] Dados recuperados do cache Redis
+[2024-08-13 01:22:04] [info] Dados recuperados do cache Redis
+[2024-08-13 01:22:06] [info] Dados recuperados do cache Redis
+[2024-08-13 01:22:09] [info] Requisição à API do Google Directions bem-sucedida
+[2024-08-13 01:22:09] [error] Erro ao acessar a API do Google: NOT_FOUND
+[2024-08-13 01:22:09] [warning] Usando valores aleatórios para distância e duração devido à falha na API do Google
+[2024-08-13 01:22:09] [info] Cálculo e registro da corrida bem-sucedidos
+[2024-08-13 01:22:09] [info] Dados armazenados no Redis com a chave: route:3:1:8383d06bc182143cfc11d5bc3048a2be
+[2024-08-13 01:22:10] [info] Dados recuperados do cache Redis
+[2024-08-13 01:22:20] [info] Dados recuperados do cache Redis
+[2024-08-13 01:22:22] [info] Dados recuperados do cache Redis
+[2024-08-13 01:22:22] [info] Dados recuperados do cache Redis
+[2024-08-13 01:22:26] [info] Requisição à API do Google Directions bem-sucedida
+[2024-08-13 01:22:26] [error] Erro ao acessar a API do Google: NOT_FOUND
+[2024-08-13 01:22:26] [warning] Usando valores aleatórios para distância e duração devido à falha na API do Google
+[2024-08-13 01:22:26] [info] Cálculo e registro da corrida bem-sucedidos
+[2024-08-13 01:22:26] [info] Dados armazenados no Redis com a chave: route:3:1:8383d06bc182143cfc11d5bc3048a2be
+[2024-08-13 01:22:28] [info] Dados recuperados do cache Redis
+[2024-08-13 01:25:17] [info] Dados recuperados do cache Redis
+[2024-08-13 01:25:18] [info] Dados recuperados do cache Redis
+[2024-08-13 01:25:20] [info] Requisição à API do Google Directions bem-sucedida
+[2024-08-13 01:25:20] [error] Erro ao acessar a API do Google: REQUEST_DENIED
+[2024-08-13 01:25:20] [warning] Usando valores aleatórios para distância e duração devido à falha na API do Google
+[2024-08-13 01:25:20] [info] Dados armazenados no Redis com a chave: route:3:1:8383d06bc182143cfc11d5bc3048a2be
+[2024-08-13 01:25:21] [info] Dados recuperados do cache Redis
+[2024-08-13 01:25:21] [info] Dados recuperados do cache Redis
+[2024-08-13 01:25:22] [info] Dados recuperados do cache Redis
+[2024-08-13 01:25:22] [info] Dados recuperados do cache Redis
+[2024-08-13 01:25:43] [info] Requisição à API do Google Directions bem-sucedida
+[2024-08-13 01:25:43] [error] Erro ao acessar a API do Google: REQUEST_DENIED
+[2024-08-13 01:25:43] [warning] Usando valores aleatórios para distância e duração devido à falha na API do Google
+[2024-08-13 01:25:43] [error] Tarifa não encontrada para a cidade e categoria fornecidas.
+[2024-08-13 01:25:47] [info] Dados recuperados do cache Redis
+[2024-08-13 01:25:57] [info] Requisição à API do Google Directions bem-sucedida
+[2024-08-13 01:25:57] [error] Erro ao acessar a API do Google: REQUEST_DENIED
+[2024-08-13 01:25:57] [warning] Usando valores aleatórios para distância e duração devido à falha na API do Google
+[2024-08-13 01:25:57] [info] Dados armazenados no Redis com a chave: route:3:1:8383d06bc182143cfc11d5bc3048a2be
+[2024-08-13 01:25:58] [info] Dados recuperados do cache Redis
+[2024-08-13 01:25:59] [info] Dados recuperados do cache Redis
+[2024-08-13 01:25:59] [info] Dados recuperados do cache Redis
+[2024-08-13 01:26:00] [info] Dados recuperados do cache Redis
+[2024-08-13 01:29:59] [info] Requisição à API do Google Directions bem-sucedida
+[2024-08-13 01:29:59] [error] Erro ao acessar a API do Google: REQUEST_DENIED
+[2024-08-13 01:29:59] [warning] Usando valores aleatórios para distância e duração devido à falha na API do Google
+[2024-08-13 01:29:59] [info] Dados armazenados no Redis com a chave: route:3:1:e04876b2f1becc374744674183534960
+[2024-08-13 01:30:00] [info] Dados recuperados do cache Redis
+[2024-08-13 01:30:01] [info] Dados recuperados do cache Redis
+[2024-08-13 01:30:01] [info] Dados recuperados do cache Redis
+[2024-08-13 01:30:01] [info] Dados recuperados do cache Redis
+[2024-08-13 01:30:01] [info] Dados recuperados do cache Redis
+[2024-08-13 01:30:02] [info] Dados recuperados do cache Redis
+[2024-08-13 01:30:03] [info] Dados recuperados do cache Redis
+[2024-08-13 01:30:03] [info] Dados recuperados do cache Redis
+[2024-08-13 01:30:04] [info] Dados recuperados do cache Redis
+[2024-08-13 01:30:04] [info] Dados recuperados do cache Redis
+[2024-08-13 01:30:04] [info] Dados recuperados do cache Redis
+[2024-08-13 01:30:04] [info] Dados recuperados do cache Redis
+[2024-08-13 01:30:04] [info] Dados recuperados do cache Redis
+[2024-08-13 01:30:04] [info] Dados recuperados do cache Redis
+[2024-08-13 01:30:05] [info] Dados recuperados do cache Redis
+[2024-08-13 01:30:05] [info] Dados recuperados do cache Redis
+[2024-08-13 01:30:05] [info] Dados recuperados do cache Redis
+[2024-08-13 01:30:05] [info] Dados recuperados do cache Redis
+[2024-08-13 01:30:05] [info] Dados recuperados do cache Redis
+[2024-08-13 01:30:06] [info] Dados recuperados do cache Redis
+[2024-08-13 01:30:06] [info] Dados recuperados do cache Redis
+[2024-08-13 01:30:06] [info] Dados recuperados do cache Redis
+[2024-08-13 01:30:07] [info] Dados recuperados do cache Redis
+[2024-08-13 01:30:07] [info] Dados recuperados do cache Redis
+[2024-08-13 01:30:08] [info] Dados recuperados do cache Redis
+[2024-08-13 01:30:08] [info] Dados recuperados do cache Redis
+[2024-08-13 01:30:10] [info] Dados recuperados do cache Redis
+[2024-08-13 01:30:10] [info] Dados recuperados do cache Redis
+[2024-08-13 01:30:12] [info] Dados recuperados do cache Redis
+[2024-08-13 01:30:12] [info] Dados recuperados do cache Redis
+[2024-08-13 01:30:13] [info] Dados recuperados do cache Redis
+[2024-08-13 01:30:14] [info] Dados recuperados do cache Redis
+[2024-08-13 01:30:14] [info] Requisição à API do Google Directions bem-sucedida
+[2024-08-13 01:30:14] [error] Erro ao acessar a API do Google: REQUEST_DENIED
+[2024-08-13 01:30:14] [warning] Usando valores aleatórios para distância e duração devido à falha na API do Google
+[2024-08-13 01:30:14] [info] Dados armazenados no Redis com a chave: route:3:1:e04876b2f1becc374744674183534960
+[2024-08-13 01:30:15] [info] Dados recuperados do cache Redis
+[2024-08-13 01:30:15] [info] Dados recuperados do cache Redis
+[2024-08-13 01:30:28] [info] Dados recuperados do cache Redis
+[2024-08-13 01:30:33] [info] Requisição processada com sucesso
+[2024-08-13 01:30:34] [info] Requisição processada com sucesso
+[2024-08-13 01:30:40] [info] Requisição à API do Google Directions bem-sucedida
+[2024-08-13 01:30:40] [error] Erro ao acessar a API do Google: REQUEST_DENIED
+[2024-08-13 01:30:40] [warning] Usando valores aleatórios para distância e duração devido à falha na API do Google
+[2024-08-13 01:30:40] [info] Dados armazenados no Redis com a chave: route:3:1:e04876b2f1becc374744674183534960

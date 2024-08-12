@@ -1,3 +1,4 @@
 RewriteEngine On
 
 RewriteRule ^api/calculo$ api/index.php [L,QSA]
+RewriteRule ^api/calculoGoogle$ api/google-directions.php [L,QSA]

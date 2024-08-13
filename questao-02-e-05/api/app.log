@@ -191,3 +191,16 @@
 [2024-08-13 01:30:40] [error] Erro ao acessar a API do Google: REQUEST_DENIED
 [2024-08-13 01:30:40] [warning] Usando valores aleatórios para distância e duração devido à falha na API do Google
 [2024-08-13 01:30:40] [info] Dados armazenados no Redis com a chave: route:3:1:e04876b2f1becc374744674183534960
+[2024-08-13 01:32:11] [info] Requisição processada com sucesso
+[2024-08-13 01:32:15] [info] Requisição à API do Google Directions bem-sucedida
+[2024-08-13 01:32:15] [error] Erro ao acessar a API do Google: REQUEST_DENIED
+[2024-08-13 01:32:15] [warning] Usando valores aleatórios para distância e duração devido à falha na API do Google
+[2024-08-13 01:32:15] [info] Dados armazenados no Redis com a chave: route:3:1:e04876b2f1becc374744674183534960
+[2024-08-13 01:32:48] [info] Requisição à API do Google Directions bem-sucedida
+[2024-08-13 01:32:48] [error] Erro ao acessar a API do Google: REQUEST_DENIED
+[2024-08-13 01:32:48] [warning] Usando valores aleatórios para distância e duração devido à falha na API do Google
+[2024-08-13 01:32:48] [info] Dados armazenados no Redis com a chave: route:3:1:4d3c43cd9e46a2e8cad1bb4a8855520b
+[2024-08-13 01:32:50] [info] Dados recuperados do cache Redis
+[2024-08-13 01:32:51] [info] Dados recuperados do cache Redis
+[2024-08-13 01:32:52] [info] Dados recuperados do cache Redis
+[2024-08-13 01:32:53] [info] Dados recuperados do cache Redis
